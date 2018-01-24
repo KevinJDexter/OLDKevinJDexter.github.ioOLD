@@ -30,3 +30,13 @@ body {
 .work-right {
   width:40%
 }
+
+#personalinfo {
+  border-radius: 10px;
+  background-color: 328CE2;
+}
+
+#history {
+  border-radius: 10px;
+  background-color: 9B5AF5;
+}
