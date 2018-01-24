@@ -2,10 +2,18 @@ p {
 
 }
 
-head {
+body {
 
 }
 
-body {
+column {
+  float:left;
+}
 
+.left {
+  width: 20%;
+}
+
+.right {
+  width:80%;
 }
