@@ -1,9 +1,14 @@
 p {
-
+  font-size: 16px;
+  font-family: "Trebuchet MS", sans-serif;
 }
 
 body {
+  background-color: d0d0d0;
+}
 
+#work-years {
+  float:right;
 }
 
 .column {
