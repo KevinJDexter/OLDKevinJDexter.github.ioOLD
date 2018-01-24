@@ -4,7 +4,7 @@ p {
 }
 
 body {
-  background-color: d0d0d0;
+  background-color: #d0d0d0;
 }
 
 #work-years {
@@ -33,10 +33,10 @@ body {
 
 #personalinfo {
   border-radius: 10px;
-  background-color: 328CE2;
+  background-color: #328CE2;
 }
 
 #history {
   border-radius: 10px;
-  background-color: 9B5AF5;
+  background-color: #9B5AF5;
 }
