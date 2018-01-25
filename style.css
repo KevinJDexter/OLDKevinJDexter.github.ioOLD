@@ -17,6 +17,10 @@ body {
   font-family: "Trebuchet MS", sans-serif;
 }
 
+img {
+  border-radius=50%;
+}
+
 #work-years {
   float:right;
 }
@@ -49,6 +53,14 @@ body {
 #history {
   border-radius: 10px;
   background-color: #9B5AF5;
+}
+
+#contactinfo {
+  text-align: center;
+}
+
+#purpose {
+  text-align: center;
 }
 
 #experience {
