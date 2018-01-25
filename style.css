@@ -21,6 +21,10 @@ img {
   border-radius=50%;
 }
 
+button {
+  margin-top: 16px;
+}
+
 #work-years {
   float:right;
 }
