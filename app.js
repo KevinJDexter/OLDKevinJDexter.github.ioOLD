@@ -3,6 +3,7 @@ function displayMintahoeDetails() {
     document.getElementById("mintahoe-details").style.display = "block";
   } else {
     document.getElementById("mintahoe-details").style.display = "none";
+  };
 };
 
 function displayProtolabsDetails() {
@@ -10,6 +11,7 @@ function displayProtolabsDetails() {
     document.getElementById("protolabs-details").style.display = "block";
   } else {
     document.getElementById("protolabs-details").style.display = "none";
+  };
 };
 
 function displayTutorDetails() {
@@ -17,6 +19,7 @@ function displayTutorDetails() {
     document.getElementById("tutor-details").style.display = "block";
   } else {
     document.getElementById("tutor-details").style.display = "none";
+  };
 };
 
 function displayVideoDetails() {
@@ -24,4 +27,5 @@ function displayVideoDetails() {
     document.getElementById("video-details").style.display = "block";
   } else {
     document.getElementById("video-details").style.display = "none";
+  };
 };
