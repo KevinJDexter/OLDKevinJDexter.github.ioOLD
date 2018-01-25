@@ -38,11 +38,15 @@ img {
 }
 
 .work-left {
-  width:60%;
+  width:40%;
 }
 
 .work-right {
-  width:40%
+  width:40%;
+}
+
+.work-middle {
+  text-align: center;
 }
 
 #personalinfo {
