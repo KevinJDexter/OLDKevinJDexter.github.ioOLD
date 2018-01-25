@@ -50,3 +50,10 @@ body {
   border-radius: 10px;
   background-color: #9B5AF5;
 }
+
+#experience {
+  margin-left: 10px;
+  margin-right: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
