@@ -4,11 +4,12 @@ p {
 
 li {
   font-size: 14px;
-  float: left;
+  text-align: left;
 }
 
 h3 {
   margin-bottom: 0px;
+  text-align: center;
 }
 
 body {
