@@ -1,4 +1,4 @@
-function displayMintahoeDetails() {
+function toggleMintahoeDetails() {
   if (document.getElementById("mintahoe-details").style.display == "none") {
     document.getElementById("mintahoe-details").style.display = "block";
   } else {
@@ -6,7 +6,7 @@ function displayMintahoeDetails() {
   };
 };
 
-function displayProtolabsDetails() {
+function toggleProtolabsDetails() {
   if (document.getElementById("protolabs-details").style.display == "none") {
     document.getElementById("protolabs-details").style.display = "block";
   } else {
@@ -14,7 +14,7 @@ function displayProtolabsDetails() {
   };
 };
 
-function displayTutorDetails() {
+function toggleTutorDetails() {
   if (document.getElementById("tutor-details").style.display == "none") {
     document.getElementById("tutor-details").style.display = "block";
   } else {
@@ -22,7 +22,7 @@ function displayTutorDetails() {
   };
 };
 
-function displayVideoDetails() {
+function toggleVideoDetails() {
   if (document.getElementById("video-details").style.display == "none") {
     document.getElementById("video-details").style.display = "block";
   } else {
